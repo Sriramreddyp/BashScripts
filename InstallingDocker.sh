@@ -18,7 +18,6 @@ check_exit_status(){
 fi
 }
 
-
 #Initial setup before installing docker
 sudo apt-get update 2>> $errorlog
 check_exit_status
