@@ -1,6 +1,6 @@
 # Bash Scripts
 
-#### For automationg regular tasks on VPC's
+#### For automating regular tasks on VPC's
 
 ### Scripts :
 
