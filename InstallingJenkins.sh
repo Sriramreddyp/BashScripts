@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-errorlog=~/var/log/docker_error.log
+errorlog=/var/log/Jenkins_error.log
 
 #Function to rectify and stop when error occurs
 check_exit_status(){
